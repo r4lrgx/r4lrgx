@@ -21,9 +21,8 @@
 -->
 
 <p align="right">
-  <picture>
-    <!-- <source srcset="https://github.com/r4lrgx/r4lrgx/assets/153697070/5cb8a7b1-8dd3-4c18-8c87-ea2708e00e29" media="(prefers-color-scheme: dark)"/>
-    <img src="https://github.com/r4lrgx/r4lrgx/assets/153697070/e9f64c69-9e13-4fbc-b287-7bcf2cc04a71" width=18 loading=lazy/> -->
-  </picture>
-  <a href="https://ko-fi.com/r4lrgx">Ko-fi: @r4lrgx</a>
+  <a href="https://ko-fi.com/r4lrgx">
+    <img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a01229bf8a18f97a3c1_favion.png" width=18 loading=lazy/>
+    Ko-fi: @r4lrgx
+  </a>
 </p>
