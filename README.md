@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://count.getloli.com/get/@:r4lrgx?darkmode=0"/>
+  <img src="https://count.getloli.com/get/@:r4lrgx?darkmode=0&theme=booru-r6gdrawfriends"/>
   <br>
 
   <a href="https://www.instagram.com/kobebryant/">
